@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vmc-react-starter/static/css/main.61fc6448.chunk.css",
+    "main.js": "/vmc-react-starter/static/js/main.5f7e9207.chunk.js",
+    "main.js.map": "/vmc-react-starter/static/js/main.5f7e9207.chunk.js.map",
+    "runtime-main.js": "/vmc-react-starter/static/js/runtime-main.df88b8f5.js",
+    "runtime-main.js.map": "/vmc-react-starter/static/js/runtime-main.df88b8f5.js.map",
+    "static/css/2.679831fc.chunk.css": "/vmc-react-starter/static/css/2.679831fc.chunk.css",
+    "static/js/2.a9e29580.chunk.js": "/vmc-react-starter/static/js/2.a9e29580.chunk.js",
+    "static/js/2.a9e29580.chunk.js.map": "/vmc-react-starter/static/js/2.a9e29580.chunk.js.map",
+    "index.html": "/vmc-react-starter/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/vmc-react-starter/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.61fc6448.chunk.css.map": "/vmc-react-starter/static/css/main.61fc6448.chunk.css.map",
+    "static/js/2.a9e29580.chunk.js.LICENSE.txt": "/vmc-react-starter/static/js/2.a9e29580.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/vmc-react-starter/static/media/ClearSans.3ed94396.woff2",
+    "static/media/logo.a094da82.svg": "/vmc-react-starter/static/media/logo.a094da82.svg",
+    "static/media/logo_white.3e8f95b5.svg": "/vmc-react-starter/static/media/logo_white.3e8f95b5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df88b8f5.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.a9e29580.chunk.js",
+    "static/css/main.61fc6448.chunk.css",
+    "static/js/main.5f7e9207.chunk.js"
+  ]
+}
