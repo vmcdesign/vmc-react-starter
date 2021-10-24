@@ -6,9 +6,8 @@ A customizable React starter template built with Create React App.
 - MUI Material component library
 - Custom components using Styled components
 - Basic routing using React Router
+- Dark and Light theme with React Context API.
 
 ## Todo
 - Create a few simple components with MUI
-- Configure default theme `./src/config/theme.js`
 - Add basic hooks
-- Setup context API
